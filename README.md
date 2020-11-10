@@ -9,3 +9,4 @@ De las tablas articulo, puesto y venta obtenemos el tipo y descripción por cada
 ![imagen](imagenes/Reto2.3.png)
 ![imagen](imagenes/Reto2.4.png)
 # Reto 3: Ordenamientos y Límites. 
+![imagen](imagenes/Reto3.png)
