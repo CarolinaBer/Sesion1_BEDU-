@@ -6,3 +6,5 @@ De las tablas articulo, puesto y venta obtenemos el tipo y descripción por cada
 # Reto 2. Estructura básica de una consulta.
 ![imagen](imagenes/Reto2.1.png)
 ![imagen](imagenes/Reto2.2.png)
+![imagen](imagenes/Reto2.3.png)
+![imagen](imagenes/Reto2.4.png)
