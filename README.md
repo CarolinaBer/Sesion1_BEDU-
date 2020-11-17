@@ -6,7 +6,9 @@ El primer paso de esta sesión es realizar la conexión a la base de datos (BD).
 - Puerto a través del cual realizaremos la conexión.
 
 
-Para esto utilizaremos **MySQL Workbench** cuyo puerto es el **3306**.
+Para esto utilizaremos **MySQL Workbench** cuyo puerto es el **3306**.MySQL es una BD estructurada es una **base de datos relacional**. Su conexión utiliza el ***Modelo Cliente-Servidor***. 
+Para los sitemas que permiten diseñar, crear y administrar en general bases de datos relacionales reciben el nombre se **Sistema Gestor de Bases de Datos (SGBD)**.
+
 La solución a los Retos de la sesión 1 se muestran a continuación.
 ## :pushpin: Reto 1. Estructura de una tabla. 
 De las tablas articulo, puesto y venta obtenemos el tipo y descripción por cada dato encontrado.  
