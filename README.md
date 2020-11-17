@@ -1,5 +1,7 @@
 # Sesión1_BEDU: Introducción a SQL. 
-El primer paso de esta sesión es realizar la conexión a la base de datos (BD). Para conectarnos al servidor es necesario conocer lo siguiente:
+Una **base de datos** es una colección organizada de conjuntos de datos generalmente almacenados en  formato digital. Para los sitemas que permiten diseñar, crear y administrar en general bases de datos relacionales reciben el nombre se **Sistema Gestor de Bases de Datos (SGBD)**.
+
+ El primer paso de esta sesión es realizar la conexión a la base de datos (BD). Para conectarnos al servidor es necesario conocer lo siguiente:
 - La dirección del servidor (Host).
 - Usuario con el cual nos vamos a conectar.
 - Contraseña de acceso. 
@@ -7,7 +9,6 @@ El primer paso de esta sesión es realizar la conexión a la base de datos (BD).
 
 
 Para esto utilizaremos **MySQL Workbench** cuyo puerto es el **3306**.MySQL es una BD estructurada es una **base de datos relacional**. Su conexión utiliza el ***Modelo Cliente-Servidor***. 
-Para los sitemas que permiten diseñar, crear y administrar en general bases de datos relacionales reciben el nombre se **Sistema Gestor de Bases de Datos (SGBD)**.
 
 La solución a los Retos de la sesión 1 se muestran a continuación.
 ## :pushpin: Reto 1. Estructura de una tabla. 
