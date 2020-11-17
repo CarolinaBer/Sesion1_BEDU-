@@ -4,6 +4,8 @@ El primer paso de esta sesión es realizar la conexión a la base de datos (BD).
 - Usuario con el cual nos vamos a conectar.
 - Contraseña de acceso. 
 - Puerto a través del cual realizaremos la conexión.
+
+
 Para esto utilizaremos **MySQL Workbench** cuyo puerto es el **3306**.
 La solución a los Retos de la sesión 1 se muestran a continuación.
 ## :pushpin: Reto 1. Estructura de una tabla. 
